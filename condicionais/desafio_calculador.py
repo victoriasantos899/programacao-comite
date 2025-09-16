@@ -1,0 +1,1 @@
+n1 = float(input("informe o primeiro valor "))
